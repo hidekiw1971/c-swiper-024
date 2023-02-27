@@ -1,3 +1,5 @@
+<img width="983" alt="image" src="https://user-images.githubusercontent.com/99580997/221683886-5207f323-9b2f-405c-9e82-29f24daf26cf.png">
+
 # compornent（共通部品）
 
 ## portfolio url:
